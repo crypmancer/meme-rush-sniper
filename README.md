@@ -2,7 +2,7 @@
 
 This tool allows users can detect new token(fair mode) launch on four.meme and snipe it immediately.
 
-
+<img width="1031" height="682" alt="image" src="https://github.com/user-attachments/assets/6a33d7ae-836a-45cc-9c52-2614aa917d60" />
 
 ## Development Process
 
